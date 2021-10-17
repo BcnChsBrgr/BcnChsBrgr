@@ -18,8 +18,8 @@ Hoping that I will share more on my github account
 
 ## Skillsets
 
-ComputerLanguage | Storage | AWS |
+Computer Language | Storage | AWS |
 ---- | ---- | ---- |
 Nodejs | MySQL | CloudFront |
-php | Redis | CloudWatch |
+php | Redis | SQS |
 Java | Memcached | Lambda |
