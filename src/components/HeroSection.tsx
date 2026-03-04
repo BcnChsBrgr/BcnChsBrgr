@@ -31,7 +31,7 @@ const HeroSection = () => {
                         </span>
                     </h1>
                     <p className="text-cream/80 font-sans text-lg md:text-xl max-w-lg mb-8 leading-relaxed">
-                        一個專為咖啡愛好者而設既分享會，無論你係新手定係老饕，都可以一齊嚟品嚐、學習同交流。
+                        一個專為咖啡愛好者而設既分享會，無論你係新手定係老手，都可以一齊嚟品嚐、學習同交流。
                     </p>
 
                     <div className="flex flex-wrap gap-6 text-cream/90 font-sans text-sm mb-10">
@@ -60,7 +60,7 @@ const HeroSection = () => {
                             href="https://api.whatsapp.com/send/?phone=4407395222543"
                             className="inline-flex items-center justify-center px-8 py-4 bg-accent text-accent-foreground font-sans font-semibold rounded-lg hover:brightness-110 transition-all"
                         >
-                            再黎一齊飲咖啡啦！
+                            搵我留位啦！
                         </a>
                         <a
                             href="#learn"
