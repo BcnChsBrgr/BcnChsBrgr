@@ -50,7 +50,7 @@ const WhatYouLearnSection = () => {
                     className="text-center mb-16"
                 >
                     <p className="text-accent font-sans text-sm font-semibold tracking-[0.2em] uppercase mb-4">
-                        咖啡下午茶內容
+                        咖啡分享會內容
                     </p>
                     <h2 className="text-4xl md:text-5xl font-serif font-bold text-foreground">
                         我地瘋狂嘅咖啡之旅會帶你去邊度？

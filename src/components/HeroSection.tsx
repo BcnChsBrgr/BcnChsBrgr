@@ -22,18 +22,16 @@ const HeroSection = () => {
                     className="max-w-2xl"
                 >
                     <p className="text-amber-glow font-sans text-sm font-semibold tracking-[0.2em] uppercase mb-6">
-                        Coffee Sharing Session
+                        咖啡分享會
                     </p>
                     <h1 className="text-5xl md:text-7xl font-serif font-bold text-cream leading-tight mb-6">
-                        Discover the
+                        探索咖啡世界嘅秘密同樂趣，加入我地既
                         <span className="block italic text-amber-glow">
-                            World of Coffee
+                            瘋狂嘅咖啡之旅
                         </span>
                     </h1>
                     <p className="text-cream/80 font-sans text-lg md:text-xl max-w-lg mb-8 leading-relaxed">
-                        Join us for a relaxed afternoon exploring the
-                        fascinating origins of coffee and the journey from bean
-                        to cup.
+                        一個專為咖啡愛好者而設既分享會，無論你係新手定係老饕，都可以一齊嚟品嚐、學習同交流。
                     </p>
 
                     <div className="flex flex-wrap gap-6 text-cream/90 font-sans text-sm mb-10">
