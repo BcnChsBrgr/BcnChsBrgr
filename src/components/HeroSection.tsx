@@ -7,7 +7,7 @@ const HeroSection = () => {
         <section className="relative min-h-screen flex items-center overflow-hidden">
             <div className="absolute inset-0">
                 <img
-                    src={heroCoffee}
+                    src={`./BcnChsBrgr/${heroCoffee}`}
                     alt="Latte art being poured into a ceramic cup"
                     className="w-full h-full object-cover"
                 />
