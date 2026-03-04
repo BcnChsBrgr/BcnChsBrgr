@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import heroCoffee from "@/assets/hero-coffee.jpg";
-import { CalendarDays, Clock, MapPin } from "lucide-react";
+import { CalendarDays, Clock, MapPin, MessageCircle } from "lucide-react";
 
 const HeroSection = () => {
     return (
@@ -60,6 +60,7 @@ const HeroSection = () => {
                             href="https://api.whatsapp.com/send/?phone=4407395222543"
                             className="inline-flex items-center justify-center px-8 py-4 bg-accent text-accent-foreground font-sans font-semibold rounded-lg hover:brightness-110 transition-all"
                         >
+                            <MessageCircle className="w-5 h-5 mr-2" />
                             搵我留位啦！
                         </a>
                         <a
