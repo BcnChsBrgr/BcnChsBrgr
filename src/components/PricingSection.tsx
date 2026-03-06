@@ -16,7 +16,7 @@ const PricingSection = () => {
                         反應熱烈
                     </p>
                     <h2 className="text-4xl md:text-5xl font-serif font-bold text-foreground">
-                        再譽歸來！
+                        載譽歸來！
                     </h2>
                 </motion.div>
 
